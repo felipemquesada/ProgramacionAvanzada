@@ -10,6 +10,7 @@ public class Main {
 		
 		
 		JOptionPane.showMessageDialog(null, "probando 123");
+		JOptionPane.showMessageDialog(null, "la puta madre");
 
 	}
 
