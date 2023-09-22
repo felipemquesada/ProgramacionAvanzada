@@ -1,5 +1,7 @@
 package Interfaz;
 
+import javax.swing.JOptionPane;
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -7,7 +9,7 @@ public class Main {
 		
 		
 		
-		
+		JOptionPane.showMessageDialog(null, "probando 123");
 
 	}
 
