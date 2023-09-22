@@ -9,7 +9,7 @@ public class Main {
 		
 		
 		JOptionPane.showMessageDialog(null, "hola");
-		
+		JOptionPane.showMessageDialog(null, "Soy alejo");
 
 	}
 
