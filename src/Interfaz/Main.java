@@ -8,9 +8,8 @@ public class Main {
 		
 		
 		
+		JOptionPane.showMessageDialog(null, "hola");
 		
-		JOptionPane.showMessageDialog(null, "probando 123");
-		JOptionPane.showMessageDialog(null, "la puta madre");
 
 	}
 
